@@ -1,0 +1,22 @@
+main{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+    color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+header {
+  display: flex;
+  justify-content: center;
+  color:black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.pet-container {
+  border: black solid 8px;
+  border-radius: 20px;
+  margin: 5px;
+}
